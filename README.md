@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolstoydebbarma" alt="tolstoydebbarma" /></a> </p>
 
-- 🔭 I’m currently working on **Vortex Breakdown, Flow Instabilities**
+- 🔭 I’m currently working on **Vortex Breakdown, Turbulent Swirling Jets and Flow Instabilities**
 
 - 📫 How to reach me **tolstoydb24@gmail.com**
 
