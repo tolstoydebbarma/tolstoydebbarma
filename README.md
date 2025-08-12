@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolstoy Debbarma</h1>
 <h3 align="center">An Aerospace Artist from India</h3>
 
-I am a computational researcher and PhD student at the Department of Aerospace Engineering of IIT Kanpur, India, where I work in the Laboratory of Simulation of Flows using Numerics headed by Dr. Pradeep Moise. My research focus is on numerical study of the effect of inflow conditions on vortex breakdown in laminar and turbulent swirling jets.
+I am a computational researcher and PhD student at the Department of Aerospace Engineering of IIT Kanpur, India, where I work in the Laboratory of Simulation of Flows using Numerics headed by <a href="https://pradeepmoise.com" target="_blank">Dr. Pradeep Moise</a>. My research focus is on numerical study of the effect of inflow conditions on vortex breakdown in laminar and turbulent swirling jets.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolstoydebbarma&label=Profile%20views&color=0e75b6&style=flat" alt="tolstoydebbarma" /> </p>
 
