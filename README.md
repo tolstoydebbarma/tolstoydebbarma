@@ -14,7 +14,7 @@ I am a computational researcher and PhD student at the Department of Aerospace E
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tolstoy-debbarma-4a4619334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolstoydebbarma" height="30" width="40" /></a>
-<a href="https://wa.me/FNMM4ZJQKWW6B1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="8787757979" height="30" width="40" /></a>
+<a href="https://wa.me/FNMM4ZJQKWW6B1" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:WhatsApp.svg" alt="8787757979" height="30" width="40" /></a>
 </p>
 <a href="https://instagram.com/tolsterrific_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolsterrific_ig" height="30" width="40" /></a>
 </p>
